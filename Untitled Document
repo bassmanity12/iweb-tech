@@ -1,0 +1,38 @@
+Hello member of team 4. Based on discussions with some of you, your team project is revised below. Now the ADMIN module is completely out.  Take a look and reach if you still have any questions.
+Project Description:
+The Objective of this project is to develop an appointment booking system where patients and clients can  easily book for a doctor’s appointment online.
+Technologies:
+PHP, MYSQL, HTML, JAVASCRIPT and CSS
+Static Design:
+Homepage with UI.
+Homepage should contain slider for images banner.
+About us page should contain description about your project.
+Contact us page should contain a form
+Modules
+1.    Doctor 
+2.    Patient/Client
+Functionality
+
+Doctor (Limited access)
+•    Registration/Login
+•    Forgot password
+•    Change password
+•    Edit profile
+•    view appointments
+•    view calendars
+•    approve/reject appointments
+
+Patient/Client (Limited access)
+•    Registration/Login
+•    Forgot password
+•    Change password
+•    Edit profile
+•    Apply for appointments
+•    Manage appointments (add/edit/update appointments)
+NOTE: View some other  appintment booking sites for ideas on content and layout , including some functionalities
+
+
+
+
+
+
